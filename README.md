@@ -1,7 +1,7 @@
 # imageScripts
 Python scripts for executing [imagemagick](https://imagemagick.org/) commands in all files of the directory.
 
-### Prerequisites
+## Prerequisites
 * [Python](https://www.python.org/downloads/) v3.6 or higher
 * Download and set up [imagemagic](https://imagemagick.org/script/download.php)
 * [Pillow](https://pypi.org/project/Pillow/)
